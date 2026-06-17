@@ -2,3 +2,7 @@
 config.env
 *.env
 !config.example.env
+
+# Python 編譯快取
+__pycache__/
+*.pyc
