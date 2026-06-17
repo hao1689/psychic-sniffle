@@ -1,0 +1,4 @@
+# 真正的設定檔含有 token,絕對不要上傳
+config.env
+*.env
+!config.example.env
