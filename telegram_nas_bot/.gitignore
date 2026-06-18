@@ -1,0 +1,8 @@
+# 真正的設定檔含有 token,絕對不要上傳
+config.env
+*.env
+!config.example.env
+
+# Python 編譯快取
+__pycache__/
+*.pyc
